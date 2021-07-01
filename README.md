@@ -5,5 +5,7 @@
   No meu ensino médio amava as aulas de lógica de programação, aprendi a programar em C++ atrávés da plataforma Arduino!<br>
 👨🏻‍🚀Sigo aprendendo outras linguagens como: <strong>Javascript, HTML e CSS.</strong><br>
 🚀Meu sonho é ser <strong>Desenvolvedor Mobile</strong></p>
+  Sigo em direção ao Destino 👨🏻‍🚀🚀🚩🌑
+  #CODETOTHEMOON
 </div>
 
