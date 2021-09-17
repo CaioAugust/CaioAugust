@@ -1,4 +1,4 @@
-<div class="stackedit__html"><h1 id="bem-vindo-ao-meu-github">Olá Viajante, Welcome to my Galaxy🚀🪐!</h1>
+<div class="stackedit__html"><h1 id="bem-vindo-ao-meu-github">Olá, Welcome to my Galaxy🚀🪐!</h1>
 <p>🙋🏻‍♂️Olá, me chamo Caio!<br>
   Sou um completo amante de <strong>Programação</strong>, <strong>Design UX/UI</strong>, <strong>Dispositivos IOT</strong> e <strong>Tudo que tenha Tecnlogia e Inovação</strong><br>
 👨🏻‍💻Sou Formado em Técnico em Eletrônica e graduando em Engenharia de Software.<br>
