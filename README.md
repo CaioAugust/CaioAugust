@@ -7,6 +7,9 @@
 - 🚀Meu sonho é ser <strong>Desenvolvedor</strong></p>
 
 ---
+
+<img src="https://media2.giphy.com/media/PmYFV3urYHA7y35cRQ/giphy.gif?cid=ecf05e47f00um43yrxhrujjawp596nupz22wwiec1wxyikvf&rid=giphy.gif&ct=g" width="200" height="200" />
+  
   
   #### Sigo em direção ao Destino 👨🏻‍🚀🚀🚩🌑
   ##### #CODETOTHEMOON
