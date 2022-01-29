@@ -2,8 +2,9 @@
 - 🙋🏻‍♂️Olá, me chamo Caio!
 - Sou um completo amante de <strong>Programação</strong>, <strong>Design UX/UI</strong>, <strong>Dispositivos IOT</strong> e <strong>Tudo que tenha Tecnlogia e Inovação</strong>
 - 👨🏻‍💻Sou Formado em Técnico em Eletrônica e graduando em Engenharia de Software.<br>
-- No meu ensino médio amava as aulas de lógica de programação, aprendi a programar em C++ atrávés da plataforma Arduino!<br>
-- 👨🏻‍🚀Sigo aprendendo outras linguagens como: <strong>Javascript, HTML e CSS.</strong><br>
+- Aprendi a programar em C++ atrávés da plataforma Arduino!<br>
+- 👨🏻‍🚀Aprendendo HTML & CSS and Javasript
+- 🎯Meu Objetivo é ser Desenvolvedor Web e Mobile</strong><br>
 
 ---
 
