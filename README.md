@@ -7,13 +7,11 @@
 - 🎯Meu Objetivo é ser Desenvolvedor Web e Mobile</strong><br>
 
 ---
-
-<img src="https://media2.giphy.com/media/PmYFV3urYHA7y35cRQ/giphy.gif?cid=ecf05e47f00um43yrxhrujjawp596nupz22wwiec1wxyikvf&rid=giphy.gif&ct=g" width="200" height="200" />
-  
-  
   #### Sigo em direção ao Destino 👨🏻‍🚀🚀🚩🌑
   ##### #CODETOTHEMOON
-
+---
 ![Caio GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioaugust&theme=material-palenight&show_icons=true)
+---
+<img src="https://media2.giphy.com/media/PmYFV3urYHA7y35cRQ/giphy.gif?cid=ecf05e47f00um43yrxhrujjawp596nupz22wwiec1wxyikvf&rid=giphy.gif&ct=g" width="200" height="200" />
 </div>
 
