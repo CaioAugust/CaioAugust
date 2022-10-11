@@ -1,6 +1,6 @@
 # Olá, Welcome to my Galaxy🚀🪐
 - 🙋🏻‍♂️Olá, me chamo Caio!
-- Sou um completo amante de <strong>Programação</strong>, <strong>Design UX/UI</strong>, <strong>Dispositivos IOT</strong> e <strong>Tudo que tenha Tecnlogia e Inovação</strong>
+- Sou um completo amante de <strong>Programação</strong>, <strong>Design UX/UI</strong>, <strong>Dispositivos IOT</strong> e <strong>Tudo que tenha Tecnologia e Inovação</strong>
 - 👨🏻‍💻Sou Formado em Técnico em Eletrônica e graduando em Engenharia de Software.<br>
 - Aprendi a programar em C++ atrávés da plataforma Arduino!<br>
 - 👨🏻‍🚀Aprendendo HTML & CSS and Javascript
