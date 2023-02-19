@@ -1,13 +1,13 @@
-# Olá, Welcome to my Galaxy🚀🪐
-- 🙋🏻‍♂️Olá, me chamo Caio!
-- Sou um completo amante de <strong>Programação</strong>, <strong>Design UX/UI</strong>, <strong>Dispositivos IOT</strong> e <strong>Tudo que tenha Tecnologia e Inovação</strong>
-- 👨🏻‍💻Sou Formado em Técnico em Eletrônica e graduando em Engenharia de Software.<br>
-- Aprendi a programar em C++ atrávés da plataforma Arduino!<br>
-- 👨🏻‍🚀Aprendendo HTML & CSS and Javascript
+# Hello, Welcome to my Galaxy🚀🪐
+- 🙋🏻‍♂️Hello! I'm Caio!
+- I am a complete lover of <strong>Programming</strong>, <strong>UX/UI Design</strong>, <strong>IOT Devices</strong> and <strong>Everything that has Technology and Innovation</strong>
+- 👨🏻‍💻 I have a degree in Electronics and a degree in Software Engineering.<br>
+- I started my programming world with C++ through the Arduino platform!<br>
+- 👨🏻‍🚀 Learning Python, JavaScript, Rest API and SQL
 - 🎯Meu Objetivo é ser Desenvolvedor Web e Mobile</strong><br>
 
 ---
-  #### Sigo em direção ao Destino 👨🏻‍🚀🚀🚩🌑
+  #### I'm heading towards Destiny 👨🏻‍🚀🚀🚩🌑
   ##### #CODETOTHEMOON
 ---
 ![Caio GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioaugust&theme=material-palenight&show_icons=true)
